@@ -1,4 +1,4 @@
-﻿namespace FiltersAttributes.Entities
+﻿namespace FiltersAttributes
 {
     public enum Type
     {
